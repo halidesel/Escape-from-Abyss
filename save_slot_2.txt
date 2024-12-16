@@ -1,0 +1,43 @@
+Player:
+Nickname: Çomar
+Health: 100
+Strength: 10
+Inventory Capacity: 10
+Inventory:
+Current Dungeon: Dead Valley
+Current Dungeon Code: 1
+Item Count: 1
+Creature Count: 4
+Items in Dungeon:
+Item 0:
+Name: Healing Potion
+Count: 1
+Type: 2
+Value: 0
+Creatures:
+Zombie, 30, 5
+Zombie, 30, 5
+Zombie, 30, 5
+Zombie, 30, 5
+Dungeon Connections:
+Up: -1
+Down: 4
+Left: -1
+Right: 2
+Dungeon States:
+Dungeon_0_Creatures:-1
+Dungeon_1_Creatures:4
+Dungeon_2_Creatures:-1
+Dungeon_3_Creatures:-1
+Dungeon_4_Creatures:-1
+Dungeon_5_Creatures:-1
+Dungeon_6_Creatures:-1
+Dungeon_7_Creatures:-1
+Dungeon_8_Creatures:-1
+Dungeon_9_Creatures:-1
+Dungeon_10_Creatures:-1
+Dungeon_11_Creatures:-1
+Dungeon_12_Creatures:-1
+Dungeon_13_Creatures:-1
+Dungeon_14_Creatures:-1
+Dungeon_15_Creatures:-1
