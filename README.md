@@ -80,7 +80,7 @@ make run
 
 ```c
 src/
-├── Hw1.c # Main game logic
+├── abyss.c # Main game logic
 ├── items.h # Item definitions and templates
 └── text.h # Game text and dungeon descriptions
 ```
