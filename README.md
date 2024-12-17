@@ -97,6 +97,7 @@ int inventoryCapacity;
 Item inventory;
 Dungeon currentDungeon;
 } Player;
+
 // Dungeon Structure
 typedef struct Dungeon {
 char name;
@@ -107,12 +108,14 @@ Item items;
 Creature creatures;
 struct Dungeon up, down, left, right;
 } Dungeon;
+
 // Creature Structure
 typedef struct {
     char *name;
     int health;
     int strength; 
 } Creature;
+
 // Item Structure
 typedef struct {
     const ItemTemplate *template;

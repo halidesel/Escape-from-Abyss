@@ -1,20 +1,36 @@
 Player:
-Nickname: Hasan
-Health: 96
+Nickname: Fındık
+Health: 100
 Strength: 10
 Inventory Capacity: 10
 Inventory:
-Sword: A sharp blade forged in the depths of the Abyss. Deals 20 damage.
-Shield: A solid shield that provides basic protection. Reduces incoming damage by 15%.
-Healing Potion: A mystical red potion that restores 20 HP when consumed.
-Healing Potion: A mystical red potion that restores 20 HP when consumed.
 Current Dungeon: Dead Valley
 Current Dungeon Code: 1
-Item Count: 0
+Item Count: 4
 Creature Count: 4
 Items in Dungeon:
+Item 0:
+Name: Sword
+Count: 1
+Type: 0
+Value: 20
+Item 1:
+Name: Shield
+Count: 1
+Type: 1
+Value: 0
+Item 2:
+Name: Healing Potion
+Count: 1
+Type: 2
+Value: 0
+Item 3:
+Name: Healing Potion
+Count: 1
+Type: 2
+Value: 0
 Creatures:
-Zombie, 10, 5
+Zombie, 30, 5
 Zombie, 30, 5
 Zombie, 30, 5
 Zombie, 30, 5
